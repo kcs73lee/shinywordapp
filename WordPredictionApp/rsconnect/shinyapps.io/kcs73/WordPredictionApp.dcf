@@ -1,0 +1,12 @@
+name: WordPredictionApp
+title: WordPredictionApp
+username:
+account: kcs73
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 281041
+bundleId: 1222293
+url: https://kcs73.shinyapps.io/WordPredictionApp/
+when: 1518593088.6809
+asMultiple: FALSE
+asStatic: FALSE
